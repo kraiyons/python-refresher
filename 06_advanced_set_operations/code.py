@@ -1,0 +1,3 @@
+friends = { "Bob", "Ralf", "Anne"};
+
+
